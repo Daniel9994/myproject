@@ -114,7 +114,7 @@ input[type="submit"]:hover{
     text-decoration: underline;
 }
 .nav_bar{
-    height: 100vh;
+    height: 20%;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -162,4 +162,24 @@ button:hover{
 a{
     color: white;
     text-decoration: none;
+}
+table{
+    color: white;
+    text-decoration: none;
+    width: 50%;
+    max-width: 60%;
+    height: 50%;
+    padding: 10px;
+    border: solid 2px white;
+    margin: auto;
+    text-align: center;
+    border-radius: 2%;
+}
+table td{
+    border-bottom: solid 2px white;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 30px;
 }   
